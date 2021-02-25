@@ -1,14 +1,14 @@
-### Hi there 
-### I'm Thibault Dumortier, a french student in computer science at the Robert-schuman IUT
-### Ty for coming here to see my GitHub
-###
+Hi there 
+I'm Thibault Dumortier, a french student in computer science at the Robert-schuman IUT
+Ty for coming here to see my GitHub
+
 ### I rarely post projects
-###
-### I'm currently working on a little java program called "QOC"
-### It stands for "Quality Of Coffee" but also "Quality Of Code"
-### It's a little quality of life program
-###
-### You can reach me on Linked In if needed
+
+I'm currently working on a little java program called "QOC"
+It stands for "Quality Of Coffee" but also "Quality Of Code"
+It's a little quality of life program
+
+You can reach me on Linked In if needed
 
 
 <!--
