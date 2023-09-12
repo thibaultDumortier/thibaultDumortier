@@ -1,8 +1,10 @@
-Hi there 
-I'm Thibault Dumortier, a french student in computer science (3rd year) at the Robert-schuman IUT.
-Ty for coming here to see my GitHub.
+Hi there ! <br/>
+I'm Thibault Dumortier, a french guy working in computer science (bachelor's degree). <br/>
+Thanks for coming here to see my GitHub !
 
-### I rarely post projects
-You can check out the small image compilers I made for fun (I mostly use them as a fun project to discover a language)
+### Projects
+- Java image compiler (compiles a directory of images into 1 image)
+- Rust image compiler (like the java one but 8x faster on average)
 
-You can reach me on Linked In if needed
+You can reach me on Linked In if needed.
+https://fr.linkedin.com/in/thibault-dumortier-7ba457204
