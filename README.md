@@ -1,5 +1,5 @@
 Hi there ! <br/>
-I'm Thibault Dumortier, a french guy working in computer science (bachelor's degree). <br/>
+I'm Thibault Dumortier, a french graduate in computer science (bachelor's degree). <br/>
 Thanks for coming here to see my GitHub !
 
 ### Projects
