@@ -1,5 +1,6 @@
 Hi there ! <br/>
 I'm Thibault Dumortier, a french graduate in computer science (bachelor's degree). <br/>
+Currently doing a master's degree in automatic language processing. <br/>
 Thanks for coming here to see my GitHub !
 
 ### Projects
